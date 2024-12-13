@@ -1,0 +1,4 @@
+Flask
+pickle5
+scikit-learn
+cryptography==2.3.1
